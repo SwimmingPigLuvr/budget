@@ -1,0 +1,14 @@
+// BUDGET APP
+
+// TO LEARN: everything
+
+// ✅ write to a file 
+// ✅ write to file without deleting contents
+// ✅ read from file
+// parse input as expenses & earnings
+// use a calendar crate so my inputs will be timestamped
+
+// 10-20 TODO
+// ✅ parse input -> struct -> JSON
+// 
+
